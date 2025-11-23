@@ -1,2 +1,2 @@
 # comparative-ml-dl-sales-forecasting
-Code and experiments for the paper "Comparative analysis of machine and deep learning models for enterprise sales forecasting".
+This repository contains the Colab notebook and resources used to reproduce the experiments for the sales forecasting paper.
